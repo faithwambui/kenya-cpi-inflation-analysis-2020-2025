@@ -53,7 +53,9 @@ The Python analysis uses 2019 observations as the comparison baseline to calcula
 The annual average inflation figures represent averages of monthly YoY rates, not December-to-December inflation.
 ## Dashboard Preview
 
-![Kenya CPI Dashboard](Final Visualization.png, Final Visualization2.png)
+![Kenya CPI Dashboard](Final%20Visualization.png)
+
+![Kenya CPI Dashboard - Page 2](Fina%20visualization%202.png)
 
 ## Project Status
 
