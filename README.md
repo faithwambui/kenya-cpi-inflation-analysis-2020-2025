@@ -51,6 +51,9 @@ Dataset: Consumer Price Index by Division; Base February 2019 = 100.
 The Python analysis uses 2019 observations as the comparison baseline to calculate YoY inflation during 2020. The SQL table contains only 2020–2025 observations, so its self-join calculations cover 2021–2025.
 
 The annual average inflation figures represent averages of monthly YoY rates, not December-to-December inflation.
+## Dashboard Preview
+
+![Kenya CPI Dashboard](Final Visualization.png, Final Visualization2.png)
 
 ## Project Status
 
